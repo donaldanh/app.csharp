@@ -1,0 +1,59 @@
+D:\k1n3\DoAn.NET\appTest\bin\Debug\appTest.exe.config
+D:\k1n3\DoAn.NET\appTest\bin\Debug\appTest.exe
+D:\k1n3\DoAn.NET\appTest\bin\Debug\appTest.pdb
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.csproj.AssemblyReference.cache
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormMain.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.Properties.Resources.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.csproj.GenerateResource.cache
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.csproj.CoreCompileInputs.cache
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.exe
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.pdb
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormTaoTaiKhoan.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormHangHoa.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormKhachHang.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormLogin.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormNhap.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormNSX.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormNV.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormXuat.resources
+D:\k1n3\DoAn.NET\appTest\obj\Debug\appTest.FormThongKe.resources
+C:\Users\vanhb\Downloads\appTest\appTest\bin\Debug\appTest.exe.config
+C:\Users\vanhb\Downloads\appTest\appTest\bin\Debug\appTest.exe
+C:\Users\vanhb\Downloads\appTest\appTest\bin\Debug\appTest.pdb
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.csproj.AssemblyReference.cache
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormHangHoa.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormKhachHang.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormLogin.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormMain.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormNhap.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormNSX.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormNV.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormTaoTaiKhoan.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormThongKe.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.FormXuat.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.Properties.Resources.resources
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.csproj.GenerateResource.cache
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.csproj.CoreCompileInputs.cache
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.exe
+C:\Users\vanhb\Downloads\appTest\appTest\obj\Debug\appTest.pdb
+D:\Study\Ky 5\DoAnNET\appTest\appTest\bin\Debug\appTest.exe.config
+D:\Study\Ky 5\DoAnNET\appTest\appTest\bin\Debug\appTest.exe
+D:\Study\Ky 5\DoAnNET\appTest\appTest\bin\Debug\appTest.pdb
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.csproj.AssemblyReference.cache
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.csproj.SuggestedBindingRedirects.cache
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormHangHoa.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormKhachHang.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormLogin.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormMain.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormNhap.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormNSX.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormNV.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormTaoTaiKhoan.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormThongKe.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.FormXuat.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.Properties.Resources.resources
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.csproj.GenerateResource.cache
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.csproj.CoreCompileInputs.cache
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.exe
+D:\Study\Ky 5\DoAnNET\appTest\appTest\obj\Debug\appTest.pdb
